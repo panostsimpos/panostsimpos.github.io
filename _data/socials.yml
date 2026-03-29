@@ -1,0 +1,16 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+# cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file (uncomment and add your CV PDF)
+email: ptsimpos@mit.edu # your email address
+# inspirehep_id: # Inspire HEP author ID (for physics papers)
+# scholar_userid: # your Google Scholar ID (add this when you have one)
+# github_username: panostsimpos # your GitHub username (uncomment to add)
+linkedin_username: panos-tsimpos-25b49621b # your LinkedIn username (uncomment to add)
+# twitter_username: # your Twitter username (uncomment to add)
+# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: # can be png, svg, jpg
+#   title: Custom Social
+#   url:

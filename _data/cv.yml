@@ -1,0 +1,68 @@
+cv:
+  name: Panos Tsimpos
+  email: ptsimpos@mit.edu
+
+  sections:
+    Education:
+      - institution: Massachusetts Institute of Technology
+        location: Cambridge, USA
+        studyType: "PhD, Operations Research Center"
+        area: "Advisor: Professor Youssef Marzouk"
+        start_date: 2023
+        end_date: 2028
+
+      - institution: Oxford University
+        location: Oxford, UK
+        studyType: Oxford Scholars Visiting Programme
+        area: Mathematics
+        start_date: 2022
+        end_date: 2022
+
+      - institution: Columbia University
+        location: New York, USA
+        studyType: "B.A."
+        area: "Double major in Mathematics and Physics, Summa Cum Laude"
+        start_date: 2019
+        end_date: 2023
+
+    Talks and Seminars:
+      - label: "SIAM Conference on Uncertainty Quantification (UQ26), Mar. 2026"
+        details: "Invited talk: One shot sampling of flow models from first principles"
+      - label: "Frontiers of Probabilistic Inference Workshop, NeurIPS FPI 2025, Dec. 2025"
+        details: "Poster: An Eulerian Perspective on Straight Line Sampling"
+      - label: "Conference on Learning Theory (COLT), Jul. 2025"
+        details: "Talk: Optimal Scheduling of Dynamic Transport"
+      - label: "Oberwolfach Seminar: Control and Machine Learning, Nov. 2025"
+        details: "Chalk talk: Optimal Schedules in Affine Dynamic Transport"
+      - label: "Mathematics, Statistics, and Innovation in Medical and Health Care, IMSI, Apr. 2023"
+        details: "Poster: Prediction and Management of Mass Effect in Neurointensive Care"
+
+    Awards:
+      - title: Onassis Foundation PhD Scholarship
+        date: 2024
+        awarder: "Sept. 2024 – May 2027"
+      - title: George and Marie Vergottis Fellowship
+        date: 2024
+        awarder: "Sept. 2024 – May 2025"
+      - title: Theodore Vassilakis Fund Fellowship
+        date: 2023
+        awarder: "Sept. 2023 – May 2024"
+      - title: "Junior Phi Beta Kappa, Delta Chapter of New York"
+        date: 2022
+      - title: Ng Teng Fong Internship Fund Award
+        date: 2022
+      - title: Heinrich Family Global Fellowship
+        date: 2020
+      - title: "Dean's List, Columbia University"
+        date: 2022
+        awarder: "2019, 2020, 2021, 2022"
+      - title: "Valedictorian of Class '19, Athens College"
+        date: 2019
+
+    Teaching:
+      - label: "16.09 Statistics and Probability, MIT, Feb.–Mar. 2024"
+        details: >
+          Teaching assistant for the first half of the core AeroAstro (Course 16) class.
+          Covered basic probability at the post-calculus / pre-measure-theory level, from
+          set-theoretic basics to the Central Limit Theorem. Designed and graded 5 homework
+          assignments and the midterm exam.

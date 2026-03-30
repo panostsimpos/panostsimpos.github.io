@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Operations Research Center (ORC)](https://orc.mit.edu/) and the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at MIT. My research focuses on probabilistic machine learning, with a particular emphasis on generative modelling, sampling and dynamic measure transport. I work on both theoretical foundations as well as novel methodological paradigms, drawing on tools from stochastic analysis, modern statistics, and mathematical physics. I am currently especially interested in the principled design of probabilistic generative models.
+I am a PhD student in the [Operations Research Center (ORC)](https://orc.mit.edu/) and the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/) at MIT advised by Professor Youssef Marzouk. My research focuses on probabilistic machine learning, with an emphasis on generative modelling, sampling and dynamic measure transport. I work on both theoretical foundations as well as novel algorithmic paradigms, drawing on tools from stochastic analysis, modern statistics, and mathematical physics. I am currently especially interested in the principled design of probabilistic generative models.
 
 Before MIT, I studied Mathematics and Physics at Columbia University.
 

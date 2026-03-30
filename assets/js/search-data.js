@@ -398,7 +398,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-gave-an-invited-talk-titled-design-of-dynamic-measure-transport-a-study-of-one-shot-sampling-at-the-siam-conference-on-uncertainty-quantification-uq26-in-the-mini-symposium-measure-flows-for-inverse-problems-and-machine-learning",
+            },},{id: "news-gave-a-talk-titled-optimal-scheduling-of-dynamic-transport-at-the-conference-on-learning-theory-colt-2025",
+          title: 'Gave a talk titled Optimal Scheduling of Dynamic Transport at the Conference on...',
+          description: "",
+          section: "News",},{id: "news-gave-a-chalk-talk-titled-optimal-schedules-in-affine-dynamic-transport-at-the-oberwolfach-seminar-control-and-machine-learning",
+          title: 'Gave a chalk talk titled Optimal Schedules in Affine Dynamic Transport at the...',
+          description: "",
+          section: "News",},{id: "news-gave-an-invited-talk-titled-design-of-dynamic-measure-transport-a-study-of-one-shot-sampling-at-the-siam-conference-on-uncertainty-quantification-uq26-in-the-mini-symposium-measure-flows-for-inverse-problems-and-machine-learning",
           title: 'Gave an invited talk titled Design of dynamic measure transport: a study of...',
           description: "",
           section: "News",},{id: "projects-project-1",

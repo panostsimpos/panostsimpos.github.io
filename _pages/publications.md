@@ -12,11 +12,11 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="bibliography">Current Work</h2>
-{% bibliography --query @*[year=2026] %}
+{% bibliography --query @inproceedings --query @article[year=2026] %}
 
 <br>
 
 <h2 class="bibliography">Past Work</h2>
-{% bibliography --query @article %}
+{% bibliography --query @article[year!=2026] %}
 
 </div>

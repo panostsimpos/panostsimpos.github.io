@@ -1,7 +1,16 @@
 ---
 ---
 
-% --- Current work  ---
+@inproceedings{tsimpos-eulerianperspectivestraight-2025,
+  author     = "Tsimpos, P. and Marzouk, Y. M.",
+  booktitle  = "2nd edition of Frontiers in Probabilistic Inference: Learning meets Sampling",
+  month      = "11",
+  title      = "An Eulerian Perspective on Straight-Line Sampling",
+  year       = "2025",
+  pdf        = "https://arxiv.org/pdf/2510.11657",
+  html       = "https://arxiv.org/abs/2510.11657",
+  abstract   = "We study dynamic measure transport for generative modeling: specifically, flows induced by stochastic processes that bridge a specified source and target distribution. The conditional expectation of the process' velocity defines an ODE whose flow map achieves the desired transport. We ask \emph{which processes produce straight-line flows} -- i.e., flows whose pointwise acceleration vanishes and thus are exactly integrable with a first-order method? We provide a concise PDE characterization of straightness as a balance between conditional acceleration and the divergence of a weighted covariance (Reynolds) tensor. Using this lens, we fully characterize affine-in-time interpolants and show that straightness occurs exactly under deterministic endpoint couplings. We also derive necessary conditions that constrain flow geometry for general processes, offering broad guidance for designing transports that are easier to integrate."
+}
 
 @inproceedings{tsimpos-optimalscheduling-2025,
   author     = "Tsimpos, P. and Ren, Z. and Zech, J. and Marzouk, Y. M.",
@@ -19,22 +28,9 @@
   abstract   = "Flow-based methods for sampling and generative modeling use continuous-time dynamical systems to represent a {transport map} that pushes forward a source measure to a target measure. The introduction of a time axis provides considerable design freedom, and a central question is how to exploit this freedom. Though many popular methods seek straight line (i.e., zero acceleration) trajectories, we show here that a specific class of ``curved'' trajectories can significantly improve approximation and learning. In particular, we consider the unit-time interpolation of any given transport map T and seek the schedule τ:[0,1]→[0,1] that minimizes the spatial Lipschitz constant of the corresponding velocity field over all times t∈[0,1]. This quantity is crucial as it allows for control of the approximation error when the velocity field is learned from data. We show that, for a broad class of source/target measures and transport maps T, the \emph{optimal schedule} can be computed in closed form, and that the resulting optimal Lipschitz constant is \emph{exponentially smaller} than that induced by an identity schedule (corresponding to, for instance, the Wasserstein geodesic). Our proof technique relies on the calculus of variations and Γ-convergence, allowing us to approximate the aforementioned degenerate objective by a family of smooth, tractable problems."
 }
 
-@inproceedings{tsimpos-eulerianperspectivestraight-2025,
-  author     = "Tsimpos, P. and Marzouk, Y. M.",
-  booktitle  = "2nd edition of Frontiers in Probabilistic Inference: Learning meets Sampling",
-  month      = "11",
-  title      = "An Eulerian Perspective on Straight-Line Sampling",
-  year       = "2025",
-  pdf        = "https://arxiv.org/pdf/2510.11657",
-  html       = "https://arxiv.org/abs/2510.11657",
-  abstract   = "We study dynamic measure transport for generative modeling: specifically, flows induced by stochastic processes that bridge a specified source and target distribution. The conditional expectation of the process' velocity defines an ODE whose flow map achieves the desired transport. We ask \emph{which processes produce straight-line flows} -- i.e., flows whose pointwise acceleration vanishes and thus are exactly integrable with a first-order method? We provide a concise PDE characterization of straightness as a balance between conditional acceleration and the divergence of a weighted covariance (Reynolds) tensor. Using this lens, we fully characterize affine-in-time interpolants and show that straightness occurs exactly under deterministic endpoint couplings. We also derive necessary conditions that constrain flow geometry for general processes, offering broad guidance for designing transports that are easier to integrate."
-}
-
-%% ---- Past papers on Medical ML ----
-
 @article{phillips2025hybrid,
   title={Hybrid machine learning for real-time prediction of edema trajectory in large middle cerebral artery stroke},
-  author={Phillips, Ethan and O’Donoghue, Odhran and Zhang, Yumeng and Tsimpos, Panos and Mallinger, Leigh Ann and Chatzidakis, Stefanos and Pohlmann, Jack and Du, Yili and Kim, Ivy and Song, Jonathan and others},
+  author={Phillips, Ethan and O'Donoghue, Odhran and Zhang, Yumeng and Tsimpos, Panos and Mallinger, Leigh Ann and Chatzidakis, Stefanos and Pohlmann, Jack and Du, Yili and Kim, Ivy and Song, Jonathan and others},
   journal={npj Digital Medicine},
   volume={8},
   number={1},
@@ -45,7 +41,7 @@
 
 @article{phillips2024helmet,
   title={HELMET: A Hybrid Machine Learning Framework for Real-Time Prediction of Edema Trajectory in Large Middle Cerebral Artery Stroke},
-  author={Phillips, Ethan and O’Donoghue, Odhran and Zhang, Yumeng and Tsimpos, Panos and Mallinger, Leigh Ann and Chatzidakis, Stefanos and Pohlmann, Jack and Du, Yili and Kim, Ivy and Song, Jonathan and others},
+  author={Phillips, Ethan and O'Donoghue, Odhran and Zhang, Yumeng and Tsimpos, Panos and Mallinger, Leigh Ann and Chatzidakis, Stefanos and Pohlmann, Jack and Du, Yili and Kim, Ivy and Song, Jonathan and others},
   journal={medRxiv},
   year={2024}
 }

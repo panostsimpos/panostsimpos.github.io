@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-gave-an-invited-talk-titled-design-of-dynamic-measure-transport-a-study-of-one-shot-sampling-at-the-siam-conference-on-uncertainty-quantification-uq26-in-the-mini-symposium-measure-flows-for-inverse-problems-and-machine-learning",
           title: 'Gave an invited talk titled Design of dynamic measure transport: a study of...',
           description: "",
-          section: "News",},{id: "news-new-preprint-out-one-shot-generative-flows-existence-and-obstructions-studying-a-central-question-in-the-design-of-probabilistic-generative-models-this-is-joint-work-with-daniel-sharp-and-youssef-marzouk-temporarily-find-the-pre-print-here",
+          section: "News",},{id: "news-new-preprint-out-one-shot-generative-flows-existence-and-obstructions-studying-a-central-question-in-the-design-of-probabilistic-generative-models-this-is-joint-work-with-daniel-sharp-and-youssef-marzouk-find-the-pre-print-here",
           title: 'New preprint out: One-Shot Generative Flows: Existence and Obstructions, studying a central question...',
           description: "",
           section: "News",},{id: "projects-project-1",

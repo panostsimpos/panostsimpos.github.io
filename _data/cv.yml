@@ -3,6 +3,16 @@ cv:
   email: ptsimpos@mit.edu
 
   sections:
+    Experience:
+      - company: Mitsubishi Electric Research Laboratories (MERL)
+        position: Research Intern
+        summary: "Advisor: Dr. Wael H. Ali"
+        start_date: "2026-05"
+        location: Cambridge, USA
+        highlights:
+          - Developing computational methods for uncertainty quantification (UQ) in high-dimensional physical systems.
+          - Integrating modern generative modeling and deep learning with principled Bayesian uncertainty quantification.
+
     Education:
       - institution: Massachusetts Institute of Technology
         location: Cambridge, USA

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://panostsimpos.github.io/sitemap.xml
+Sitemap: https://panostsimpos.com/sitemap.xml
